@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ---
 title: "My Website"
 ---
@@ -7,32 +7,12 @@ title: "My Website"
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-<img src="images/emily_2.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
+<img src="images/2018.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
 
-I like to do anything related to data analytics  to answer research questions and test hypotheses. Currently I investigate the relation between public and investors emotion and stock at [Iowa State University] (https://www.imse.iastate.edu) in the department of Industrial Engineering. 
-
-
-I graduated from the [IUST] with a MS in IE in 2016. In 2017 I began working toward my PhD in IE as a research assistant , where I am investigating statistical and machine learning methods for the study of behavioral finance  under the advisement of [Dr. Kremer ](https://www.imse.iastate.edu/directory/gul-kremer).
+I like to do anything related to data analytics  to answer research questions and test hypotheses. Currently I investigate the relation between public and investors emotion and stock at [Iowa State University](https://www.imse.iastate.edu) in the department of Industrial Engineering. 
 
 
-
-=======
----
-title: "My Website"
----
-      
+I graduated from the [IUST] with a MS in IE in 2016. In 2017 I began working toward my PhD in IE department of ISU as a research assistant , where I am investigating statistical and machine learning methods for the study of behavioral finance  under the advisement of [Dr. Kremer ](https://www.imse.iastate.edu/directory/gul-kremer).
 
 
-<link rel="stylesheet" href="styles.css" type="text/css">
-
-<img src="images/emily_2.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
-
-I like to do anything related to data analytics  to answer research questions and test hypotheses. Currently I investigate the relation between public and investors emotion and stock at [Iowa State University] (https://www.imse.iastate.edu/) in the department of Industrial Engineering. 
-
-
-I graduated from the [IUST] with a MS in IE in 2016. In 2017 I began working toward my PhD in IE as a research assistant , where I am investigating statistical and machine learning methods for the study of behavioral finance  under the advisement of [Dr. Kremer ](https://www.imse.iastate.edu/directory/gul-kremer).
-
-
-
->>>>>>> f9014ed304c9af475faceabceab9bcde2cf63abc
 My full CV is available [here](PResume.pdf).
